@@ -1,10 +1,22 @@
 # SEF — SE3090 PDF Index
 
-Last checked: 2026-07-22
+Last checked: 2026-07-26
 
 ## Module focus
 
 Software framework fundamentals, architecture decision records, frontend frameworks, React, and framework-based implementation.
+
+## Naming format
+
+- Lecture: `MODULE - Lecture 01 - Title.pdf`
+- Lab: `MODULE - Lab 01 - Title.pdf`
+- Tutorial: `MODULE - Tutorial 01 - Title.pdf`
+- Module outline: `MODULE - Module Outline.pdf`
+- Module overview: `MODULE - Module Overview.pdf`
+- Support material: `MODULE - Support Material - Title.pdf`
+- Reading material: `MODULE - Reading Material - Title.pdf`
+
+Use the module abbreviation (`ABD`, `MEM`, `QMSE`, or `SEF`) in place of `MODULE`.
 
 ## Current PDFs
 
@@ -20,6 +32,7 @@ Software framework fundamentals, architecture decision records, frontend framewo
 - Lecture 02 and Lab 02 added on 2026-07-22.
 - Lecture 01, Lab 01, and ADR support material already existed; skipped.
 - CampusEats frontend support project was not a PDF; excluded from this PDF index.
+- Rechecked CourseWeb on 2026-07-26; no new downloadable PDF resources were available. Recording URLs, source projects, and submission activities were not copied.
 
 ## Past-paper mapping
 

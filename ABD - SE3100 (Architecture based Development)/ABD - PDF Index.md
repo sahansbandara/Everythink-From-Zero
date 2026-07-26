@@ -1,10 +1,22 @@
 # ABD — SE3100 PDF Index
 
-Last checked: 2026-07-22
+Last checked: 2026-07-26
 
 ## Module focus
 
 Software architecture fundamentals, architectural design and decision-making, quality attributes, and architecture-based development.
+
+## Naming format
+
+- Lecture: `MODULE - Lecture 01 - Title.pdf`
+- Lab: `MODULE - Lab 01 - Title.pdf`
+- Tutorial: `MODULE - Tutorial 01 - Title.pdf`
+- Module outline: `MODULE - Module Outline.pdf`
+- Module overview: `MODULE - Module Overview.pdf`
+- Support material: `MODULE - Support Material - Title.pdf`
+- Reading material: `MODULE - Reading Material - Title.pdf`
+
+Use the module abbreviation (`ABD`, `MEM`, `QMSE`, or `SEF`) in place of `MODULE`.
 
 ## Current PDFs
 
@@ -16,6 +28,7 @@ Software architecture fundamentals, architectural design and decision-making, qu
 
 - Lecture 01 already existed; skipped.
 - Lab Sheet 01 added on 2026-07-22.
+- Rechecked CourseWeb on 2026-07-26; no new downloadable PDF resources were available. Lab-submission activities were not copied.
 
 ## Past-paper mapping
 
